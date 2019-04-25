@@ -7,3 +7,28 @@ It brings the search results from the Google search engine and coordinates and d
 ## Note
 The most important factors that improve TWYNI search engine results are improving meta tags of your website
 
+# instaling and use
+* just download **Search.php** Class and include it in your Search Processing Page
+* Create an object from the class:
+
+  ```php
+   $search = new Search();
+   ```
+
+* add your website link and search keyword
+
+  ```php
+   $search->searchIn('coursdz.com');
+   $search->searchFor('رياضيات');
+   ```
+   
+* finally use the function get to get search result array
+
+  ```php
+  $result = $search->get();
+  ```
+  
+The result is an array containing arrays. each arry contains the title of the search result and its link.
+
+## example
+
