@@ -32,3 +32,13 @@ The result is an array containing arrays. each arry contains the title of the se
 
 ## example
 
+We prepare the search engine as the picture
+
+
+![prepare image](https://i.ibb.co/6Z7Y2Sv/Capture.png)
+
+
+we get this result
+  
+
+![prepare image](https://i.ibb.co/NNxzS3K/Capture.png)
