@@ -4,6 +4,6 @@ Its use is easy and simple and achieves accurate results
 
 It brings the search results from the Google search engine and coordinates and displays them
 
-# Note
+## Note
 The most important factors that improve TWYNI search engine results are improving meta tags of your website
 
