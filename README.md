@@ -28,11 +28,11 @@ The most important factors that improve TWYNI search engine results are improvin
   $result = $search->get();
   ```
   
-The result is an array containing arrays. each arry contains the title of the search result and its link.
+The result is an array containing arrays. each array contains the title of the search result and its link.
 
 ## example
 
-We prepare the search engine as the picture
+We prepare the search engine like the picture
 
 
 ![prepare image](https://i.ibb.co/6Z7Y2Sv/Capture.png)
