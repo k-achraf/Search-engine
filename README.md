@@ -9,6 +9,9 @@ The most important factors that improve TWYNI search engine results are improvin
 
 # instaling and use
 * just download **Search.php** Class and include it in your Search Processing Page
+```bash
+git clone https://github.com/ashi04/Search-engine.git
+```
 * Create an object from the class:
 
   ```php
